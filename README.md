@@ -14,6 +14,7 @@ Improve the accessibility of the website for people with disabilites and to opti
 
 ![Screenshot of Horiseon website.](./assets/images/horiseon-website.png)
 
+### Website: [Horiseon](https://lonelymitoc.github.io/horiseon-code-refactor/)
+
 ---
 
-[Horiseon website]()
