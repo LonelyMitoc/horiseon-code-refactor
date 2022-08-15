@@ -6,11 +6,11 @@ Improve the accessibility of the website for people with disabilites and to opti
 
 ## Improvements
 
-- Renaming title to clearly indicate what site is shown
-- Adding alt text to all relevant images
-- Added id tag to Search Engine Optimization
-- Reorganized the CSS codes from top to bottom in the order of global-elements-classes
-- Combined repeating properties into one attribute command (4 sections)
+- Renamed title to clearly indicate what site is shown on the browser tab
+- Added alt text to all relevant images
+- Fixed link issue
+- Reorganized the CSS codes
+- Combined repeating properties into one attribute
 
 ![Screenshot of Horiseon website.](./assets/images/horiseon-website.png)
 
